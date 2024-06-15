@@ -2,6 +2,10 @@
 
 [![Version](https://img.shields.io/github/v/release/arm-software/CMSIS_5)](https://github.com/ARM-software/CMSIS_5/releases/latest) [![License](https://img.shields.io/github/license/arm-software/CMSIS_5)](https://arm-software.github.io/CMSIS_5/General/html/LICENSE.txt)
 
+> **Note:**
+> 
+> Consider to upgrade to [CMSIS Version 6](https://github.com/ARM-software/CMSIS_6). Refer to [Migration from CMSIS v5](https://arm-software.github.io/CMSIS_6/latest/General/index.html#migration_cmsis5) for more information.
+
 The branch *master* of this GitHub repository contains ![Version](https://img.shields.io/github/v/release/arm-software/CMSIS_5?display_name=release&label=%20&sort=semver).
 The [documentation](http://arm-software.github.io/CMSIS_5/General/html/index.html) is available under http://arm-software.github.io/CMSIS_5/General/html/index.html
 
